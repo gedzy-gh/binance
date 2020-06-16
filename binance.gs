@@ -1,4 +1,4 @@
-/* JAVASCRIPT - gedzy@pm.me
+/* JAVASCRIPT - gedzy@pm.me */
 
 function isString(str) {
   return typeof str === 'string' || str instanceof String;
